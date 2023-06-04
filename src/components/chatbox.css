@@ -1,0 +1,24 @@
+.DialogWrapper {
+  padding-left: 65rem;
+}
+
+@media screen and (max-width: 1440px) {
+  .DialogWrapper {
+    padding-left: 50rem;
+  }
+}
+@media screen and (max-width: 1024px) {
+  .DialogWrapper {
+    padding-left: 25rem;
+  }
+}
+/* @media screen and (max-width: 768px) {
+  .DialogWrapper {
+    padding-left: rem;
+  }
+} */
+@media screen and (max-width: 425px) {
+  .DialogWrapper {
+    padding-left: 2rem;
+  }
+}
